@@ -14,6 +14,9 @@ A list of research papers and other resources relating to the creation of Ai pow
 - Virtual Personas for Language Models via an Anthology of Backstories<br>
 https://arxiv.org/abs/2407.06576
 
+- Generative Agents: Interactive Simulacra of Human Behavior<br>
+https://arxiv.org/abs/2304.03442
+
 - Generative Agent Simulations of 1,000 People<br>
 https://arxiv.org/abs/2411.10109
 
