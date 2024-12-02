@@ -24,7 +24,7 @@ https://arxiv.org/abs/2411.10109
 
 - TED Talk - Sara Giusto<br>
   The rise of virtual humans — and what they mean for the future<br>
-  https://www.ted.com/talks/sara_giusto_the_rise_of_virtual_humans_and_what_they_mean_for_the_future
+  https://www.youtube.com/watch?v=hTnJYRMixKs
 
 - Video of a realistic looking virtual persona<br>
 https://reddragonai.com/products
