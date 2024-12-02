@@ -8,6 +8,7 @@ A list of research papers and other resources relating to the creation of Ai pow
 - Large Language Model (LLM)
 - Generative Agent Simulations
 - Human behavioral simulation
+- Empathic AI technology
 
 ## Papers
 
@@ -23,6 +24,12 @@ https://arxiv.org/abs/2411.10109
 - 3D Face Reconstruction with Dense Landmarks<br>
 https://microsoft.github.io/DenseLandmarks/
 
+## Services
+
+- hume<br>
+  Real-time voice intelligence for every application<br>
+  https://www.hume.ai/products#empathicVoiceInterface
+
 ## Other resources
 
 - TED Talk - Sara Giusto<br>
@@ -35,3 +42,10 @@ https://www.youtube.com/watch?v=6-FESfXHF5s
 
 - Video of a realistic looking virtual persona<br>
 https://reddragonai.com/products
+
+- The Scary Truth Behind AI's Emotional Power<br>
+AI For Humans<br>
+https://www.youtube.com/watch?v=2Qb_XnEUcY8
+
+
+  
