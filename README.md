@@ -41,14 +41,13 @@ https://arxiv.org/abs/2412.04984
 ## Machiavellian behaviour in LLMs
 Is the LLM pretending to be honest, helpful and harmless?
 
-- Deceptive behaviour - Alignment faking<br>
-https://www.youtube.com/watch?v=_ivh810WHJo
-
 - ALIGNMENT FAKING IN LARGE LANGUAGE MODELS<br>
 https://assets.anthropic.com/m/983c85a201a962f/original/Alignment-Faking-in-Large-Language-Models-full-paper.pdf
+Video: https://www.youtube.com/watch?v=_ivh810WHJo
 
 - Frontier Models are Capable of In-context Scheming<br>
 https://arxiv.org/abs/2412.04984
+Video: https://www.youtube.com/watch?v=GlZfndaO01c
 
 ## Other resources
 
