@@ -11,6 +11,7 @@ A list of research papers and other resources relating to the creation of Ai pow
 - Empathic AI technology
 - Alignment faking
 - In-context Scheming
+- Instrumental alignment faking
 
 ## Papers
 
