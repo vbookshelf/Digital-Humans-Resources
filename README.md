@@ -39,7 +39,8 @@ https://arxiv.org/abs/2412.04984
   https://www.hume.ai/products#empathicVoiceInterface
 
 ## Machiavellian behaviour in LLMs
-Is the LLM pretending to be honest, helpful and harmless?
+Is an LLM pretending to be honest, helpful and harmless?
+Is an LLM fine tuning human users?
 
 - ALIGNMENT FAKING IN LARGE LANGUAGE MODELS<br>
 Paper: https://assets.anthropic.com/m/983c85a201a962f/original/Alignment-Faking-in-Large-Language-Models-full-paper.pdf<br>
