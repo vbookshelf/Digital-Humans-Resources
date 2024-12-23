@@ -24,11 +24,29 @@ https://arxiv.org/abs/2411.10109
 - 3D Face Reconstruction with Dense Landmarks<br>
 https://microsoft.github.io/DenseLandmarks/
 
+- ALIGNMENT FAKING IN LARGE LANGUAGE MODELS<br>
+https://assets.anthropic.com/m/983c85a201a962f/original/Alignment-Faking-in-Large-Language-Models-full-paper.pdf
+
+- Frontier Models are Capable of In-context Scheming<br>
+https://arxiv.org/abs/2412.04984
+
 ## Services
 
 - hume<br>
   Real-time voice intelligence for every application<br>
   https://www.hume.ai/products#empathicVoiceInterface
+
+## Aligment Faking
+Is the LLM pretending to be honest, helpful and harmless?
+
+- Deceptive behaviour - Alignment faking<br>
+https://www.youtube.com/watch?v=_ivh810WHJo
+
+- ALIGNMENT FAKING IN LARGE LANGUAGE MODELS<br>
+https://assets.anthropic.com/m/983c85a201a962f/original/Alignment-Faking-in-Large-Language-Models-full-paper.pdf
+
+- Frontier Models are Capable of In-context Scheming<br>
+https://arxiv.org/abs/2412.04984
 
 ## Other resources
 
