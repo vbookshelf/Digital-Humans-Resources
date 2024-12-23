@@ -42,11 +42,11 @@ https://arxiv.org/abs/2412.04984
 Is the LLM pretending to be honest, helpful and harmless?
 
 - ALIGNMENT FAKING IN LARGE LANGUAGE MODELS<br>
-https://assets.anthropic.com/m/983c85a201a962f/original/Alignment-Faking-in-Large-Language-Models-full-paper.pdf
+Paper: https://assets.anthropic.com/m/983c85a201a962f/original/Alignment-Faking-in-Large-Language-Models-full-paper.pdf<br>
 Video: https://www.youtube.com/watch?v=_ivh810WHJo
 
 - Frontier Models are Capable of In-context Scheming<br>
-https://arxiv.org/abs/2412.04984
+Paper: https://arxiv.org/abs/2412.04984<br>
 Video: https://www.youtube.com/watch?v=GlZfndaO01c
 
 ## Other resources
