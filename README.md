@@ -9,6 +9,8 @@ A list of research papers and other resources relating to the creation of Ai pow
 - Generative Agent Simulations
 - Human behavioral simulation
 - Empathic AI technology
+- Alignment faking
+- In-context Scheming
 
 ## Papers
 
@@ -36,7 +38,7 @@ https://arxiv.org/abs/2412.04984
   Real-time voice intelligence for every application<br>
   https://www.hume.ai/products#empathicVoiceInterface
 
-## Aligment Faking
+## Aligment Faking (Machiavellian behaviour in LLMs)
 Is the LLM pretending to be honest, helpful and harmless?
 
 - Deceptive behaviour - Alignment faking<br>
