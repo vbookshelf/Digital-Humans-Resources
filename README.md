@@ -1,5 +1,5 @@
-# Virtual Humans - Papers and Resources
-A list of research papers and other resources relating to the creation of Ai powered virtual humans.
+# Digital Humans (Virtual Humans) - Papers and Resources
+A list of research papers and other resources relating to the creation of Ai powered digital humans.
 
 ## Terms
 
@@ -12,6 +12,15 @@ A list of research papers and other resources relating to the creation of Ai pow
 - Alignment faking
 - In-context Scheming
 - Instrumental alignment faking
+
+## Open Source LLMs
+- Qwen2.5-Omni - See, Hear, Talk, Write<br>
+Blog post:<br>
+https://qwenlm.github.io/blog/qwen2.5-omni/<br>
+YouTube video:<br>
+Qwen 2.5 Omni - Your NEW Open Omni Powerhouse<br>
+Sam Witteveen<br>
+https://www.youtube.com/watch?v=-JY1wcRRXMA&t
 
 ## Papers
 
