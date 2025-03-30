@@ -1,4 +1,4 @@
-# Digital Humans (Virtual Humans) - Papers and Resources
+# Digital Humans (Virtual Humans) - Resources
 A list of research papers and other resources relating to the creation of Ai powered digital humans.
 
 ## Terms
