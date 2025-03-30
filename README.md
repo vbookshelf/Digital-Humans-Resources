@@ -20,7 +20,10 @@ https://qwenlm.github.io/blog/qwen2.5-omni/<br>
 YouTube video:<br>
 Qwen 2.5 Omni - Your NEW Open Omni Powerhouse<br>
 Sam Witteveen<br>
-https://www.youtube.com/watch?v=-JY1wcRRXMA&t
+https://www.youtube.com/watch?v=-JY1wcRRXMA&t<br>
+Paper:<br>
+Qwen2.5-Omni Technical Report<br>
+https://github.com/QwenLM/Qwen2.5-Omni/blob/main/assets/Qwen2.5_Omni.pdf
 
 ## Papers
 
@@ -41,6 +44,9 @@ https://assets.anthropic.com/m/983c85a201a962f/original/Alignment-Faking-in-Larg
 
 - Frontier Models are Capable of In-context Scheming<br>
 https://arxiv.org/abs/2412.04984
+
+- Qwen2.5-Omni Technical Report<br>
+  https://github.com/QwenLM/Qwen2.5-Omni/blob/main/assets/Qwen2.5_Omni.pdf
 
 ## Services
 
