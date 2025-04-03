@@ -60,6 +60,9 @@ https://arxiv.org/abs/2412.04984
 - Qwen2.5-Omni Technical Report<br>
   https://github.com/QwenLM/Qwen2.5-Omni/blob/main/assets/Qwen2.5_Omni.pdf
 
+- Investigating Affective Use and Emotional Well-being on ChatGPT<br>
+https://cdn.openai.com/papers/15987609-5f71-433c-9972-e91131f399a1/openai-affective-use-study.pdf
+
 ## Services
 
 - hume<br>
