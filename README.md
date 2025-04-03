@@ -24,6 +24,7 @@ https://ziggy.voicebot.woza.work/
 - Alignment faking
 - In-context Scheming
 - Instrumental alignment faking
+- Anthropomorphic AI (Human-like AI)
 
 ## Open Source LLMs
 - Qwen2.5-Omni - See, Hear, Talk, Write<br>
