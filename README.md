@@ -4,7 +4,8 @@ A list of research papers and other resources relating to the creation of Ai pow
 <br>
 
 ## Ziggy – A Digital Human Chat Companion
-This is my attempt at creating a baseline digital human.<br>
+This is my attempt at creating a baseline digital human using only HTML, CSS, Javascript, PHP and Llama3 70b running on Groq.<br>
+Supports both text and voice.<br>
 GitHub:<br>
 https://github.com/vbookshelf/ziggy-php-voicebot/tree/main<br>
 Live Demo:<br>
