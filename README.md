@@ -1,6 +1,17 @@
 # Digital Humans (Virtual Humans) - Resources
 A list of research papers and other resources relating to the creation of Ai powered digital humans.
 
+<br>
+
+## Ziggy – A Digital Human Chat Companion
+This is my attempt at creating a baseline digital human.<br>
+GitHub:<br>
+https://github.com/vbookshelf/ziggy-php-voicebot/tree/main<br>
+Live Demo:<br>
+https://ziggy.voicebot.woza.work/
+
+<br>
+
 ## Terms
 
 - Virtual Personas
@@ -66,6 +77,7 @@ Video: https://www.youtube.com/watch?v=_ivh810WHJo
 Paper: https://arxiv.org/abs/2412.04984<br>
 Video: https://www.youtube.com/watch?v=GlZfndaO01c
 
+
 ## Other resources
 
 - TED Talk - Sara Giusto<br>
@@ -82,6 +94,5 @@ https://reddragonai.com/products
 - The Scary Truth Behind AI's Emotional Power<br>
 AI For Humans<br>
 https://www.youtube.com/watch?v=2Qb_XnEUcY8
-
 
   
